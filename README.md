@@ -1,1 +1,1 @@
-# SmartHouse
+# MyApp
